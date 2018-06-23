@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">B\'day Card</string>
+    <string name="message_hint">Your message</string>
+    <string name="name_hint">Your name</string>
+</resources>
